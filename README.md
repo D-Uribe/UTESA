@@ -45,8 +45,10 @@ The form uses [EmailJS](https://www.emailjs.com) to send emails without a backen
 2. Set up an Email Service (Gmail, Outlook, etc.)
 3. Create an Email Template with the variables: `{{name}}`, `{{title}}`, `{{email}}`, `{{message}}`
 4. Replace `publicKey`, `service_id`, and `template_id` in `contact.js`
-## Preview
+## Webpage
 
 https://app.netlify.com/projects/heroic-hotteok-59234b/overview
+
+## Preview
 
 <img width="1756" height="739" alt="image" src="https://github.com/user-attachments/assets/223cc3bc-f89a-48ca-b472-e4eb4206609e" />
